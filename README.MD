@@ -1,5 +1,15 @@
-Task 6.1 coordinates project-wide activities towards the realisation of the communication, dissemination and exploitation plan in the [project OpenNext](https://opennext.eu). WP6 coordinates project-wide activities towards the realisation of the communication, dissemination, and exploitation (CDE) plans (see section 2.2.3) with respect to the Data Management Plan (see section 2.2.2) and the ambitious open science policy (see section 2.2.1). It specifies these plans and policies into concrete measures and coordinates the action of all participants towards the realisation of these measures. The work performed in WP6 comprises ongoing supportive tasks running all along the project as well as one-off tasks targeting at specific contents produced in other WPs.
+## About OpenNext
+
+Open Source Hardware (OSH) is a recent and promising extension of open source practices to the creation of physical objects. [The project OpenNext](https://opennext.eu) focuses on encouraging and supporting small medium enterprises (SMEs) to unleash OSH’s potential through engagement in collaborative open design of products and services together with fab labs/makerspaces.
+
+*We’re opening new horizons of industrial collaboration*.
+
+## About this repository
+
+This is the public repository for work package 6 WP6 "Exploitation, dissemination and communication". This WP coordinates project-wide activities towards the realisation of the project's communication, dissemination and exploitation plan towards the realisation of an ambitious open science policy.
 
 ![logo](https://raw.githubusercontent.com/OPEN-NEXT/wp6_pub/master/Corporate%20identity/Logo/Logo-full-black.png)
 
-This project is funded by the European Union’s Horizon 2020 programme for research and innovation under grant agreement no. 869984 :european_union:
+## To learn more
+
+See our [website](https://opennext.eu), browse through our [project team](https://opennext.eu/project-team/), [published resources](https://opennext.eu/resources/) and [upcoming events](https://opennext.eu/events/) or [contact us](https://opennext.eu/contact/). The project OpenNext is funded by the European Union’s Horizon 2020 programme for research and innovation under grant agreement no. 869984 :european_union:
